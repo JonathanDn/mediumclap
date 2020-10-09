@@ -1,4 +1,5 @@
-# Medium Clap Recreation by Yonatan Doron
+# Medium Clap Recreation
+## by Yonatan Doron
 
 ![MIT License](https://badgen.net/badge/license/MIT/blue "MIT License")
 
