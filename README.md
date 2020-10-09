@@ -3,7 +3,7 @@
 ![MIT License](https://badgen.net/badge/license/MIT/blue "MIT License")
 
 ###### Demo
-![Medium Clap reverse engnieered gif](https://media.giphy.com/media/5QLuCj7YGvcAj49MGh/giphy.gif)
+![Medium Clap reverse engnieered gif](https://media.giphy.com/media/vlIRUOU5a6oboTAeV4/giphy.gif)
 
 * Demo available --> https://jsfiddle.net/urft14zr/425/
 
