@@ -1,4 +1,4 @@
-# Medium Clap recreation
+# Medium Clap Recreation
 
 ![MIT License](https://badgen.net/badge/license/MIT/blue "MIT License")
 
@@ -8,8 +8,8 @@
 * Demo available --> https://jsfiddle.net/urft14zr/425/
 
 ###### Description
-
-Reversed Engineer by me from the famous medium clap micro interaction 
+This is the source code from my article [How I Implemented the Medium Clap from Scratch!](https://medium.com/hackernoon/how-i-implemented-the-medium-clap-from-scratch-4a16ac90ad3b)
+* Reversed Engineer by me from the famous medium clap micro interaction 
 * code is completely open source unde MIT license
 * I tried to recreate it by looking, researching and conducting experiments by trial and error.
 
