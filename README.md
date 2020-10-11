@@ -13,11 +13,10 @@ by [Yonatan Doron](https://twitter.com/jodoron)
 * Reversed Engineer by me from the famous medium clap micro interaction 
 * code is completely open source unde MIT license
 * I tried to recreate it by looking, researching and conducting experiments by trial and error.
-
 ---
 👨‍💻 Follow me on [Twitter](https://twitter.com/jodoron).
----
 
+---
 ### Donation
 If this project helped you reduce development time, you can buy me a cup of coffee :)
 
