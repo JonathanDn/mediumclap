@@ -16,3 +16,8 @@ by [Yonatan Doron](https://twitter.com/jodoron)
 
 ---
 👨‍💻 Follow me on [Twitter](https://twitter.com/jodoron).
+---
+### Donation
+If this project helped you reduce development time, you can buy me a cup of coffee :)
+
+* Paypal - yonidn7@gmail.com
